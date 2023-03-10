@@ -1,4 +1,4 @@
-# !!!建议看[PDF](https://github.com/GuoPingPan/Habitat-Sim-Usage-Chinese/blob/master/Meta-Habitat-Usage.pdf)或者跳转语雀：[《Meta仿真 Habitat-Sim使用文档》](https://www.yuque.com/u1647260/ggkiip/kx3bxbsgs2dbitz1?singleDoc#)，这里排版不好
+# 🎈建议看 [PDF](https://github.com/GuoPingPan/Habitat-Sim-Usage-Chinese/blob/master/Meta-Habitat-Usage.pdf) 或者跳转语雀：[《Meta仿真 Habitat-Sim使用文档》](https://www.yuque.com/u1647260/ggkiip/kx3bxbsgs2dbitz1?singleDoc#)，这里排版不好
 
 > Github：[https://github.com/facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim)
 > 官网：[https://aihabitat.org/](https://aihabitat.org/)
